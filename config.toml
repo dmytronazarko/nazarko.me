@@ -1,3 +1,4 @@
+publishDir = "docs"
 baseurl = "https://nazarko.me/"
 title = "Dmytro Nazarko"
 
