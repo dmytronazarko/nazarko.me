@@ -22,6 +22,8 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "Full Stack Developer"
     avatarurl = "/images/avatar.png"
+    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/img/favicon-32x32.png"
     # footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
@@ -75,17 +77,17 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 3
+    weight = 5
     url = "https://www.linkedin.com/in/dmytronazarko-dev/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
-    weight = 4
+    weight = 3
     url = "https://twitter.com/dmytronazarko"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium"
-    weight = 5
+    weight = 4
     url = "https://medium.com/@dmytronazarko"
 # [[params.social]]
 #     name = "RSS"
