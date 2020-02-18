@@ -16,6 +16,8 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
+googleAnalytics = "UA-158704841-1"
+
 [params]
     author = "Dmytro Nazarko"
     description = "Dmytro Nazarko's personal website"
